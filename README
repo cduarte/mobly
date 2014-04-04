@@ -8,6 +8,11 @@ O sistema não contabiliza quantidade de produto no carrinho.
 
 A busca só é realizada no campo 'name' da tabela 'product'.
 
+Link DEMO: mobly.charlesduarte.com/
+
+
+O arquivo para gerar o banco de dados se encontra na raiz: mobly_prova.sql
+
 
 Charles Duarte dos Santos.
 dos.santos.charles@gmail.com
