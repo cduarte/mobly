@@ -11,6 +11,9 @@
 			<div>
 				<?php echo CHtml::link($product['name'], array('product/view', 'id'=>$product['id'])); ?>
 			</div>
+			<div>
+				R$ <?php echo number_format($product['price'],2,",",".");?>
+			</div>
 		</div>
 	<?php } ?>
 </div>
