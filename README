@@ -1,0 +1,13 @@
+Teste para processo para PHP Developer - Mobly , Charles Duarte dos Santos
+
+O sistema foi desenvolvido rapidamente.
+
+O sistema não contabiliza quantidade de produto no carrinho.
+
+É possível adicionar duas vezes ou mais o mesmo produto, pois o sistema não contabiliza a quantidade de produtos.
+
+A busca só é realizada no campo 'name' da tabela 'product'.
+
+
+Charles Duarte dos Santos.
+dos.santos.charles@gmail.com
